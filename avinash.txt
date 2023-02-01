@@ -3,3 +3,4 @@
 - Live Session (done 01/02/2023)
 - Drink some water (pending)
 - Have a good night sleep (will be done after live session)
+- teach about git
